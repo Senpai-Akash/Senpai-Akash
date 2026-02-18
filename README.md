@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ff00&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Senpai-Akash&label=Profile%20Views&color=00ff00&style=flat" />
 </p>
 
 ---
