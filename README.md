@@ -40,28 +40,11 @@
 
 ---
 
-## 📊 SYSTEM METRICS
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Senpai-Akash&theme=chartreuse-dark&hide_border=true" />
-</p>
-
----
 
 ## 📈 ACTIVITY TRACE
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Senpai-Akash&theme=chartreuse-dark&hide_border=true" />
-</p>
-
----
-
-
-## 🏆 ACHIEVEMENTS
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Senpai-Akash&theme=matrix&no-bg=true&no-frame=true&row=1&column=6" />
 </p>
 
 ---
